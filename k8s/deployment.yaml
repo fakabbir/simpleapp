@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: simple-app-container
-        image: fakabbir/simpleapp:v1
+        image: fakabbir/simpleapp:v2
         ports:
         - containerPort: 8000
         env:
